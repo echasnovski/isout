@@ -1,0 +1,15 @@
+Package: isout
+Title: Is Observation an Outlier?
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Evgeni",
+           family = "Chasnovski",
+           role = c("aut", "cre"),
+           email = "evgeni.chasnovski@gmail.com")
+Description: Consistent tools to answer the question "Is
+    observation an outlier?". All functions return logical vector with
+    length equal to number of observations, indicating if it is an
+    outlier.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
